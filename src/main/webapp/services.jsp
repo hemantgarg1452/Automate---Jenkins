@@ -7,6 +7,6 @@
 <title>Service page</title>
 </head>
 <body>
-	<p> This is server page! </p>
+	<p> This is service page! </p>
 </body>
 </html>
